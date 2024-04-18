@@ -5,8 +5,8 @@ import (
 
 	"github.com/whatap/golib/lang/step"
 
-	"github.com/whatap/go-api/agent/agent/config"
-	// "github.com/whatap/go-api/agent/util/logutil"
+	"github.com/zaelani23/go-api/agent/agent/config"
+	// "github.com/zaelani23/go-api/agent/util/logutil"
 )
 
 type ProfileCircularCollector struct {

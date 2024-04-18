@@ -1,8 +1,8 @@
 package net
 
 import (
-	"github.com/whatap/go-api/agent/agent/config"
-	langconf "github.com/whatap/go-api/agent/lang/conf"
+	"github.com/zaelani23/go-api/agent/agent/config"
+	langconf "github.com/zaelani23/go-api/agent/lang/conf"
 )
 
 type TcpManager struct {

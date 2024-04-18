@@ -1,7 +1,7 @@
 package thirdparty
 
 import (
-	"github.com/whatap/go-api/agent/thirdparty/nvidiasmi"
+	"github.com/zaelani23/go-api/agent/thirdparty/nvidiasmi"
 )
 
 func StartAll() {

@@ -8,10 +8,10 @@ import (
 	"time"
 
 	"github.com/whatap/golib/util/dateutil"
-	"github.com/whatap/go-api/agent/agent/config"
+	"github.com/zaelani23/go-api/agent/agent/config"
 	// import cycle not allowed
-	//"github.com/whatap/go-api/agent/agent/stat"
-	"github.com/whatap/go-api/agent/util/logutil"
+	//"github.com/zaelani23/go-api/agent/agent/stat"
+	"github.com/zaelani23/go-api/agent/util/logutil"
 )
 
 type TimingSender struct {

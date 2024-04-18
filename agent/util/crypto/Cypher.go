@@ -6,8 +6,8 @@ import (
 	//"log"
 
 	"github.com/whatap/golib/io"
-	"github.com/whatap/go-api/agent/agent/config"
-	"github.com/whatap/go-api/agent/util/logutil"
+	"github.com/zaelani23/go-api/agent/agent/config"
+	"github.com/zaelani23/go-api/agent/util/logutil"
 )
 
 type Cypher struct {

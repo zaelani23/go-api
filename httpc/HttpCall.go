@@ -1,4 +1,4 @@
-// github.com/whatap/go-api/httpc
+// github.com/zaelani23/go-api/httpc
 package httpc
 
 import (
@@ -7,10 +7,10 @@ import (
 	"log"
 	"net/http"
 
-	agentconfig "github.com/whatap/go-api/agent/agent/config"
-	agenttrace "github.com/whatap/go-api/agent/agent/trace"
-	agentapi "github.com/whatap/go-api/agent/agent/trace/api"
-	"github.com/whatap/go-api/trace"
+	agentconfig "github.com/zaelani23/go-api/agent/agent/config"
+	agenttrace "github.com/zaelani23/go-api/agent/agent/trace"
+	agentapi "github.com/zaelani23/go-api/agent/agent/trace/api"
+	"github.com/zaelani23/go-api/trace"
 
 	"github.com/whatap/golib/lang/step"
 	"github.com/whatap/golib/util/dateutil"

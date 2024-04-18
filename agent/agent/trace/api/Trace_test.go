@@ -6,8 +6,8 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	agentconfig "github.com/whatap/go-api/agent/agent/config"
-	agenttrace "github.com/whatap/go-api/agent/agent/trace"
+	agentconfig "github.com/zaelani23/go-api/agent/agent/config"
+	agenttrace "github.com/zaelani23/go-api/agent/agent/trace"
 
 	// "github.com/whatap/golib/lang/step"
 

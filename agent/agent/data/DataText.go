@@ -5,14 +5,14 @@ import (
 	"sync"
 	"time"
 
-	"github.com/whatap/go-api/agent/agent/config"
-	"github.com/whatap/go-api/agent/net"
-	"github.com/whatap/go-api/agent/util/logutil"
 	"github.com/whatap/golib/lang/pack"
 	"github.com/whatap/golib/util/dateutil"
 	"github.com/whatap/golib/util/hash"
 	"github.com/whatap/golib/util/hmap"
 	"github.com/whatap/golib/util/queue"
+	"github.com/zaelani23/go-api/agent/agent/config"
+	"github.com/zaelani23/go-api/agent/net"
+	"github.com/zaelani23/go-api/agent/util/logutil"
 )
 
 const (

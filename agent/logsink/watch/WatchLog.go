@@ -11,13 +11,13 @@ import (
 	"strings"
 	"time"
 
-	"github.com/whatap/go-api/agent/agent/config"
-	"github.com/whatap/go-api/agent/agent/data"
-	"github.com/whatap/go-api/agent/agent/secure"
-	logsink_zip "github.com/whatap/go-api/agent/logsink/zip"
-	"github.com/whatap/go-api/agent/util/logutil"
 	"github.com/whatap/golib/lang/pack"
 	"github.com/whatap/golib/util/dateutil"
+	"github.com/zaelani23/go-api/agent/agent/config"
+	"github.com/zaelani23/go-api/agent/agent/data"
+	"github.com/zaelani23/go-api/agent/agent/secure"
+	logsink_zip "github.com/zaelani23/go-api/agent/logsink/zip"
+	"github.com/zaelani23/go-api/agent/util/logutil"
 	"golang.org/x/text/encoding/korean"
 	"golang.org/x/text/transform"
 )

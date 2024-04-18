@@ -4,10 +4,10 @@ import (
 	"runtime/debug"
 	"strings"
 
-	agentconfig "github.com/whatap/go-api/agent/agent/config"
-	"github.com/whatap/go-api/agent/agent/data"
-	agenttrace "github.com/whatap/go-api/agent/agent/trace"
-	"github.com/whatap/go-api/agent/util/logutil"
+	agentconfig "github.com/zaelani23/go-api/agent/agent/config"
+	"github.com/zaelani23/go-api/agent/agent/data"
+	agenttrace "github.com/zaelani23/go-api/agent/agent/trace"
+	"github.com/zaelani23/go-api/agent/util/logutil"
 
 	"github.com/whatap/golib/lang/pack"
 	"github.com/whatap/golib/lang/step"

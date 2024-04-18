@@ -10,8 +10,8 @@ import (
 	"github.com/whatap/golib/util/hexa32"
 	"github.com/whatap/golib/util/urlutil"
 
-	"github.com/whatap/go-api/agent/agent/config"
-	"github.com/whatap/go-api/agent/agent/stat"
+	"github.com/zaelani23/go-api/agent/agent/config"
+	"github.com/zaelani23/go-api/agent/agent/stat"
 )
 
 type TraceContext struct {

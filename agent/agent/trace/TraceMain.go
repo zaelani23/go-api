@@ -10,12 +10,7 @@ import (
 	//"runtime/debug"
 	"time"
 
-	//	"github.com/whatap/go-api/agent/agent/counter/meter"
-	"github.com/whatap/go-api/agent/agent/config"
-	"github.com/whatap/go-api/agent/agent/data"
-	"github.com/whatap/go-api/agent/agent/secure"
-	"github.com/whatap/go-api/agent/agent/stat"
-	"github.com/whatap/go-api/agent/util/logutil"
+	//	"github.com/zaelani23/go-api/agent/agent/counter/meter"
 	"github.com/whatap/golib/lang/pack"
 	"github.com/whatap/golib/lang/service"
 	"github.com/whatap/golib/util/bitutil"
@@ -23,6 +18,11 @@ import (
 	"github.com/whatap/golib/util/hash"
 	"github.com/whatap/golib/util/queue"
 	"github.com/whatap/golib/util/stringutil"
+	"github.com/zaelani23/go-api/agent/agent/config"
+	"github.com/zaelani23/go-api/agent/agent/data"
+	"github.com/zaelani23/go-api/agent/agent/secure"
+	"github.com/zaelani23/go-api/agent/agent/stat"
+	"github.com/zaelani23/go-api/agent/util/logutil"
 )
 
 // SQL 일반화 ParsedSQL (Java TraceSQL) 의 해시를 reset

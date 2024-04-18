@@ -6,8 +6,8 @@ import (
 	"github.com/whatap/golib/lang/pack"
 	"github.com/whatap/golib/util/dateutil"
 	"github.com/whatap/golib/util/hash"
-	"github.com/whatap/go-api/agent/agent/counter/meter"
-	"github.com/whatap/go-api/agent/agent/data"
+	"github.com/zaelani23/go-api/agent/agent/counter/meter"
+	"github.com/zaelani23/go-api/agent/agent/data"
 )
 
 var (

@@ -2,8 +2,8 @@ package counter
 
 import (
 	"github.com/whatap/golib/lang/pack"
-	"github.com/whatap/go-api/agent/agent/config"
-	"github.com/whatap/go-api/agent/util/logutil"
+	"github.com/zaelani23/go-api/agent/agent/config"
+	"github.com/zaelani23/go-api/agent/util/logutil"
 )
 
 // 나중에 제거해야함...

@@ -1,11 +1,11 @@
-//github.com/whatap/go-api/sql
+//github.com/zaelani23/go-api/sql
 package sql
 
 import (
 	"sync"
 
-	"github.com/whatap/go-api/trace"
 	"github.com/whatap/golib/lang/step"
+	"github.com/zaelani23/go-api/trace"
 )
 
 var ctxPool = sync.Pool{

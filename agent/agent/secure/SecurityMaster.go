@@ -11,17 +11,17 @@ import (
 	"sync"
 	"time"
 
-	"github.com/whatap/go-api/agent/agent/config"
-	langconf "github.com/whatap/go-api/agent/lang/conf"
+	"github.com/zaelani23/go-api/agent/agent/config"
+	langconf "github.com/zaelani23/go-api/agent/lang/conf"
 
-	// "github.com/whatap/go-api/agent/lang/license"
-	"github.com/whatap/go-api/agent/util/crypto"
-	"github.com/whatap/go-api/agent/util/logutil"
-	"github.com/whatap/go-api/agent/util/oidutil"
+	// "github.com/zaelani23/go-api/agent/lang/license"
 	"github.com/whatap/golib/io"
 	"github.com/whatap/golib/util/cmdutil"
 	"github.com/whatap/golib/util/hash"
 	"github.com/whatap/golib/util/iputil"
+	"github.com/zaelani23/go-api/agent/util/crypto"
+	"github.com/zaelani23/go-api/agent/util/logutil"
+	"github.com/zaelani23/go-api/agent/util/oidutil"
 )
 
 type SecurityMaster struct {

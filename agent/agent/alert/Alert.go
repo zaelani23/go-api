@@ -3,9 +3,9 @@ package alert
 import (
 	"fmt"
 
-	"github.com/whatap/go-api/agent/agent/config"
 	"github.com/whatap/golib/lang/pack"
 	"github.com/whatap/golib/util/dateutil"
+	"github.com/zaelani23/go-api/agent/agent/config"
 )
 
 var LastHitMapVerEvent int64

@@ -4,7 +4,7 @@ import (
 	"github.com/whatap/golib/lang"
 	"github.com/whatap/golib/lang/ref"
 	"github.com/whatap/golib/util/hmap"
-	"github.com/whatap/go-api/agent/agent/config"
+	"github.com/zaelani23/go-api/agent/agent/config"
 )
 
 type MeterActiveX struct {

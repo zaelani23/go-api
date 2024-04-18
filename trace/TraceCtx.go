@@ -1,4 +1,4 @@
-// github.com/whatap/go-api/trace
+// github.com/zaelani23/go-api/trace
 package trace
 
 import (
@@ -9,7 +9,7 @@ import (
 	// whatapnet "github.com/whatap/golib/net"
 	"github.com/whatap/golib/util/dateutil"
 
-	agenttrace "github.com/whatap/go-api/agent/agent/trace"
+	agenttrace "github.com/zaelani23/go-api/agent/agent/trace"
 )
 
 const (

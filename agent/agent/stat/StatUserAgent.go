@@ -3,7 +3,7 @@ package stat
 import (
 	//	"log"
 	"github.com/whatap/golib/lang/pack"
-	"github.com/whatap/go-api/agent/agent/data"
+	"github.com/zaelani23/go-api/agent/agent/data"
 	"sync"
 	//	"github.com/whatap/golib/util/hmap"
 )

@@ -12,9 +12,9 @@ import (
 	"github.com/whatap/golib/util/hmap"
 	"github.com/whatap/golib/util/pathutil"
 	"github.com/whatap/golib/util/stringutil"
-	"github.com/whatap/go-api/agent/agent/config"
-	langconf "github.com/whatap/go-api/agent/lang/conf"
-	"github.com/whatap/go-api/agent/util/logutil"
+	"github.com/zaelani23/go-api/agent/agent/config"
+	langconf "github.com/zaelani23/go-api/agent/lang/conf"
+	"github.com/zaelani23/go-api/agent/util/logutil"
 )
 
 // agnet.boot -> agent.trace로 이동 import cycle error

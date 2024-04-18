@@ -3,7 +3,7 @@ package sys
 import (
 	//"log"
 	"github.com/shirou/gopsutil/disk"
-	"github.com/whatap/go-api/agent/util/logutil"
+	"github.com/zaelani23/go-api/agent/util/logutil"
 )
 
 func GetSysDiskUsedPercent(path string) float64 {

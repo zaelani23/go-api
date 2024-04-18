@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 
 	"github.com/whatap/golib/lang/pack"
-	"github.com/whatap/go-api/agent/util/logutil"
+	"github.com/zaelani23/go-api/agent/util/logutil"
 )
 
 func ApplyAppLog(p *pack.LogSinkPack, line string) (ret bool) {

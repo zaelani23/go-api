@@ -2,8 +2,8 @@ package meter
 
 import (
 	"github.com/whatap/golib/util/hmap"
-	"github.com/whatap/go-api/agent/agent/config"
-	"github.com/whatap/go-api/agent/util/logutil"
+	"github.com/zaelani23/go-api/agent/agent/config"
+	"github.com/zaelani23/go-api/agent/util/logutil"
 )
 
 type SQLBucket struct {

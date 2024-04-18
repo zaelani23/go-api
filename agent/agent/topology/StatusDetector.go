@@ -9,15 +9,15 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/whatap/go-api/agent/agent/config"
-	"github.com/whatap/go-api/agent/agent/secure"
-	"github.com/whatap/go-api/agent/util/logutil"
 	"github.com/whatap/golib/lang"
 	langtopology "github.com/whatap/golib/lang/topology"
 	"github.com/whatap/golib/util/dateutil"
 	"github.com/whatap/golib/util/hmap"
 	"github.com/whatap/golib/util/iputil"
 	"github.com/whatap/golib/util/stringutil"
+	"github.com/zaelani23/go-api/agent/agent/config"
+	"github.com/zaelani23/go-api/agent/agent/secure"
+	"github.com/zaelani23/go-api/agent/util/logutil"
 )
 
 type StatusDetector struct {

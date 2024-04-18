@@ -7,7 +7,7 @@ import (
 	_ "fmt"
 	"github.com/whatap/golib/lang"
 	_ "github.com/whatap/golib/util/dateutil"
-	"github.com/whatap/go-api/agent/agent/config"
+	"github.com/zaelani23/go-api/agent/agent/config"
 )
 
 const (

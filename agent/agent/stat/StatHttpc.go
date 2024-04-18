@@ -5,13 +5,13 @@ import (
 	"math"
 	"sync"
 
-	"github.com/whatap/go-api/agent/agent/config"
-	langconf "github.com/whatap/go-api/agent/lang/conf"
+	"github.com/zaelani23/go-api/agent/agent/config"
+	langconf "github.com/zaelani23/go-api/agent/lang/conf"
 
 	"github.com/whatap/golib/lang/pack"
 	"github.com/whatap/golib/util/hmap"
-	"github.com/whatap/go-api/agent/agent/data"
-	"github.com/whatap/go-api/agent/util/logutil"
+	"github.com/zaelani23/go-api/agent/agent/data"
+	"github.com/zaelani23/go-api/agent/util/logutil"
 )
 
 const (

@@ -13,8 +13,8 @@ import (
 	"github.com/whatap/golib/util/hash"
 	"github.com/whatap/golib/util/keygen"
 	"github.com/whatap/golib/util/stringutil"
-	"github.com/whatap/go-api/agent/agent/config"
-	"github.com/whatap/go-api/agent/util/logutil"
+	"github.com/zaelani23/go-api/agent/agent/config"
+	"github.com/zaelani23/go-api/agent/util/logutil"
 )
 
 type ParamSecurity struct {

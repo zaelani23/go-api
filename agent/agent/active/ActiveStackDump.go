@@ -5,9 +5,6 @@ import (
 	//"log"
 	"strings"
 
-	"github.com/whatap/go-api/agent/agent/config"
-	"github.com/whatap/go-api/agent/agent/data"
-	"github.com/whatap/go-api/agent/agent/trace"
 	"github.com/whatap/golib/lang"
 	"github.com/whatap/golib/lang/pack"
 	"github.com/whatap/golib/lang/step"
@@ -16,6 +13,9 @@ import (
 	"github.com/whatap/golib/util/hash"
 	"github.com/whatap/golib/util/keygen"
 	"github.com/whatap/golib/util/stringutil"
+	"github.com/zaelani23/go-api/agent/agent/config"
+	"github.com/zaelani23/go-api/agent/agent/data"
+	"github.com/zaelani23/go-api/agent/agent/trace"
 )
 
 // Java whatap.agent.counter.meter -> whatap.agent.active 로 변경

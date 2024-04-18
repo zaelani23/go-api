@@ -9,14 +9,14 @@ import (
 	"strings"
 	"time"
 
-	"github.com/whatap/go-api/agent/agent/config"
-	"github.com/whatap/go-api/agent/agent/secure"
-	"github.com/whatap/go-api/agent/util/logutil"
 	"github.com/whatap/golib/io"
 	"github.com/whatap/golib/lang/value"
 	"github.com/whatap/golib/util/hash"
 	"github.com/whatap/golib/util/iputil"
 	"github.com/whatap/golib/util/stringutil"
+	"github.com/zaelani23/go-api/agent/agent/config"
+	"github.com/zaelani23/go-api/agent/agent/secure"
+	"github.com/zaelani23/go-api/agent/util/logutil"
 )
 
 var NodeAgentHost string

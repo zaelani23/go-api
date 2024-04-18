@@ -5,7 +5,7 @@ import (
 	"sync"
 
 	"github.com/whatap/golib/lang/pack"
-	"github.com/whatap/go-api/agent/agent/data"
+	"github.com/zaelani23/go-api/agent/agent/data"
 )
 
 //protected final int TABLE_MAX_SIZE = 10000;

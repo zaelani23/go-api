@@ -5,14 +5,14 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/whatap/go-api/agent/agent/config"
-	"github.com/whatap/go-api/agent/agent/data"
-	"github.com/whatap/go-api/agent/util/logutil"
 	"github.com/whatap/golib/io"
 	"github.com/whatap/golib/lang/pack"
 	"github.com/whatap/golib/util/ansi"
 	"github.com/whatap/golib/util/dateutil"
 	"github.com/whatap/golib/util/queue"
+	"github.com/zaelani23/go-api/agent/agent/config"
+	"github.com/zaelani23/go-api/agent/agent/data"
+	"github.com/zaelani23/go-api/agent/util/logutil"
 )
 
 type ZipSendProxyThread struct {

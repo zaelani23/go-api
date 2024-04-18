@@ -7,14 +7,14 @@ import (
 	"sync"
 
 	// import cycle error
-	//	"github.com/whatap/go-api/agent/agent/trace"
+	//	"github.com/zaelani23/go-api/agent/agent/trace"
 	"github.com/whatap/golib/lang/pack"
 	"github.com/whatap/golib/util/bitutil"
 	"github.com/whatap/golib/util/hmap"
-	"github.com/whatap/go-api/agent/agent/config"
-	"github.com/whatap/go-api/agent/agent/data"
-	langconf "github.com/whatap/go-api/agent/lang/conf"
-	"github.com/whatap/go-api/agent/util/logutil"
+	"github.com/zaelani23/go-api/agent/agent/config"
+	"github.com/zaelani23/go-api/agent/agent/data"
+	langconf "github.com/zaelani23/go-api/agent/lang/conf"
+	"github.com/zaelani23/go-api/agent/util/logutil"
 )
 
 const (

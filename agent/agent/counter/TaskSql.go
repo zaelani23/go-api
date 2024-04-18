@@ -6,9 +6,9 @@ import (
 	"github.com/whatap/golib/lang/pack"
 	"github.com/whatap/golib/util/dateutil"
 	"github.com/whatap/golib/util/hmap"
-	"github.com/whatap/go-api/agent/agent/config"
-	"github.com/whatap/go-api/agent/agent/counter/meter"
-	"github.com/whatap/go-api/agent/util/logutil"
+	"github.com/zaelani23/go-api/agent/agent/config"
+	"github.com/zaelani23/go-api/agent/agent/counter/meter"
+	"github.com/zaelani23/go-api/agent/util/logutil"
 )
 
 type TaskSql struct {

@@ -7,10 +7,10 @@ import (
 	"github.com/whatap/golib/lang/step"
 	"github.com/whatap/golib/util/queue"
 
-	"github.com/whatap/go-api/agent/agent/config"
-	"github.com/whatap/go-api/agent/agent/secure"
-	langconf "github.com/whatap/go-api/agent/lang/conf"
-	"github.com/whatap/go-api/agent/util/logutil"
+	"github.com/zaelani23/go-api/agent/agent/config"
+	"github.com/zaelani23/go-api/agent/agent/secure"
+	langconf "github.com/zaelani23/go-api/agent/lang/conf"
+	"github.com/zaelani23/go-api/agent/util/logutil"
 )
 
 type StepSplit struct {

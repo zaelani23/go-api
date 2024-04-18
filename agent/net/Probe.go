@@ -7,8 +7,8 @@ import (
 	"github.com/whatap/golib/io"
 	"github.com/whatap/golib/util/dateutil"
 	"github.com/whatap/golib/util/stringutil"
-	"github.com/whatap/go-api/agent/agent/config"
-	"github.com/whatap/go-api/agent/agent/secure"
+	"github.com/zaelani23/go-api/agent/agent/config"
+	"github.com/zaelani23/go-api/agent/agent/secure"
 )
 
 func NetSyncTest(whatapip *string, license *string) {

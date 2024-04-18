@@ -4,8 +4,8 @@ import (
 	"os"
 
 	"github.com/shirou/gopsutil/process"
-	//"github.com/whatap/go-api/agent/agent/config"
-	"github.com/whatap/go-api/agent/util/logutil"
+	//"github.com/zaelani23/go-api/agent/agent/config"
+	"github.com/zaelani23/go-api/agent/util/logutil"
 )
 
 func GetProcessInfo(processName string) (map[string]float64, map[int32]float64) {

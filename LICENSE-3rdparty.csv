@@ -42,7 +42,7 @@ Apache-2.0,google.golang.org/grpc
 BSD-3-Clause,google.golang.org/protobuf
 Apache-2.0,gopkg.in/yaml.v2
 MIT,gorm.io/gorm
-Apache-2.0,github.com/whatap/go-api/config
+Apache-2.0,github.com/zaelani23/go-api/config
 MIT,github.com/leodido/go-urn
 BSD-2-Clause,github.com/magiconair/properties
 MIT,github.com/mattn/go-colorable
@@ -61,7 +61,7 @@ MIT,github.com/valyala/fasthttp
 MIT,github.com/valyala/fasthttp/reuseport
 MIT,github.com/valyala/fasttemplate
 MIT,github.com/valyala/tcplisten
-Apache-2.0,github.com/whatap/go-api
+Apache-2.0,github.com/zaelani23/go-api
 BSD-3-Clause,golang.org/x/crypto
 BSD-3-Clause,golang.org/x/net
 BSD-3-Clause,golang.org/x/sys/unix

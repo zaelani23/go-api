@@ -2,12 +2,12 @@ package counter
 
 import (
 	//"log"
-	//"github.com/whatap/go-api/agent/agent/active"
-	// "github.com/whatap/go-api/agent/agent/active/udp"
-	"github.com/whatap/go-api/agent/agent/config"
-	"github.com/whatap/go-api/agent/agent/counter/meter"
-	"github.com/whatap/go-api/agent/agent/trace"
-	"github.com/whatap/go-api/agent/util/logutil"
+	//"github.com/zaelani23/go-api/agent/agent/active"
+	// "github.com/zaelani23/go-api/agent/agent/active/udp"
+	"github.com/zaelani23/go-api/agent/agent/config"
+	"github.com/zaelani23/go-api/agent/agent/counter/meter"
+	"github.com/zaelani23/go-api/agent/agent/trace"
+	"github.com/zaelani23/go-api/agent/util/logutil"
 
 	// "github.com/whatap/golib/lang"
 	"github.com/whatap/golib/lang/pack"

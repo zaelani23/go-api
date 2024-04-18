@@ -1,9 +1,5 @@
 package zip
 
-import (
-//"github.com/whatap/go-api/agent/agent/config"
-)
-
 type ZipModLoader struct {
 	zipImpl ZipMod
 	libpath string

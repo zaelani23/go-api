@@ -2,9 +2,9 @@ package pprof
 
 import (
 	"github.com/whatap/golib/util/dateutil"
-	"github.com/whatap/go-api/agent/agent/config"
-	langconf "github.com/whatap/go-api/agent/lang/conf"
-	"github.com/whatap/go-api/agent/util/logutil"
+	"github.com/zaelani23/go-api/agent/agent/config"
+	langconf "github.com/zaelani23/go-api/agent/lang/conf"
+	"github.com/zaelani23/go-api/agent/util/logutil"
 	"net/http"
 	httpPProf "net/http/pprof"
 	"os"

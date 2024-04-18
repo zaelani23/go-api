@@ -11,7 +11,7 @@ import (
 	"github.com/shirou/gopsutil/cpu"
 
 	"github.com/whatap/golib/util/cmdutil"
-	"github.com/whatap/go-api/agent/util/logutil"
+	"github.com/zaelani23/go-api/agent/util/logutil"
 )
 
 type SysCpuInfo struct {

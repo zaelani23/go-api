@@ -3,12 +3,12 @@ package api
 import (
 	"runtime/debug"
 
-	agentconfig "github.com/whatap/go-api/agent/agent/config"
-	"github.com/whatap/go-api/agent/agent/counter/meter"
-	"github.com/whatap/go-api/agent/agent/data"
-	"github.com/whatap/go-api/agent/agent/stat"
-	agenttrace "github.com/whatap/go-api/agent/agent/trace"
-	"github.com/whatap/go-api/agent/util/logutil"
+	agentconfig "github.com/zaelani23/go-api/agent/agent/config"
+	"github.com/zaelani23/go-api/agent/agent/counter/meter"
+	"github.com/zaelani23/go-api/agent/agent/data"
+	"github.com/zaelani23/go-api/agent/agent/stat"
+	agenttrace "github.com/zaelani23/go-api/agent/agent/trace"
+	"github.com/zaelani23/go-api/agent/util/logutil"
 
 	"github.com/whatap/golib/lang/pack"
 	"github.com/whatap/golib/lang/ref"

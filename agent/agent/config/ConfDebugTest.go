@@ -1,7 +1,7 @@
 package config
 
 import (
-	"github.com/whatap/go-api/agent/util/logutil"
+	"github.com/zaelani23/go-api/agent/util/logutil"
 )
 
 type ConfDebugTest struct {

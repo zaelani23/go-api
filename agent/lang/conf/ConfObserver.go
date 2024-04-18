@@ -3,7 +3,7 @@ package conf
 import (
 	//"log"
 	//"fmt"
-	"github.com/whatap/go-api/agent/util/logutil"
+	"github.com/zaelani23/go-api/agent/util/logutil"
 )
 
 type Runnable interface {
@@ -19,12 +19,12 @@ func AddConfObserver(cls string, run Runnable) {
 func RunConfObserver() {
 	defer func() {
 		if r := recover(); r != nil {
-			logutil.Println("WA10500"," Recover", r)
+			logutil.Println("WA10500", " Recover", r)
 		}
 	}()
 
 	//fmt.Println("Run=")
-	
+
 	for _, v := range observer {
 		//fmt.Println("Run=", k)
 		v.Run()

@@ -1,8 +1,8 @@
 package trace
 
 import (
-	agentconfig "github.com/whatap/go-api/agent/agent/config"
 	"github.com/whatap/golib/util/hmap"
+	agentconfig "github.com/zaelani23/go-api/agent/agent/config"
 )
 
 const (

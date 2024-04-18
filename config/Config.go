@@ -1,4 +1,4 @@
-//github.com/whatap/go-api/config
+//github.com/zaelani23/go-api/config
 package config
 
 import (

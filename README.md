@@ -11,12 +11,12 @@ Golang  애플리케이션에  대한  모니터링  서비스를  제공합니�
 Golang  애플리케이션  소스코드에  whatap/go-api  를  추가하고  배포합니다.
 
 ```  
-go get -u github.com/whatap/go-api
+go get -u github.com/zaelani23/go-api
 ```
 
 ```
 import  (
-	"github.com/whatap/go-api/trace"
+	"github.com/zaelani23/go-api/trace"
 )
 
 func  main(){

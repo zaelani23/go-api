@@ -16,9 +16,9 @@ import (
 
 	"github.com/whatap/golib/lang/pack"
 	"github.com/whatap/golib/util/dateutil"
-	"github.com/whatap/go-api/agent/agent/config"
-	"github.com/whatap/go-api/agent/agent/data"
-	"github.com/whatap/go-api/agent/agent/secure"
+	"github.com/zaelani23/go-api/agent/agent/config"
+	"github.com/zaelani23/go-api/agent/agent/data"
+	"github.com/zaelani23/go-api/agent/agent/secure"
 )
 
 const (

@@ -1,4 +1,4 @@
-// github.com/whatap/go-api/trace
+// github.com/zaelani23/go-api/trace
 package trace
 
 import (
@@ -15,10 +15,10 @@ import (
 	"strings"
 	"sync"
 
-	whatapboot "github.com/whatap/go-api/agent/agent/boot"
-	agentconfig "github.com/whatap/go-api/agent/agent/config"
-	agenttrace "github.com/whatap/go-api/agent/agent/trace"
-	agentapi "github.com/whatap/go-api/agent/agent/trace/api"
+	whatapboot "github.com/zaelani23/go-api/agent/agent/boot"
+	agentconfig "github.com/zaelani23/go-api/agent/agent/config"
+	agenttrace "github.com/zaelani23/go-api/agent/agent/trace"
+	agentapi "github.com/zaelani23/go-api/agent/agent/trace/api"
 
 	"github.com/whatap/golib/io"
 	langvalue "github.com/whatap/golib/lang/value"

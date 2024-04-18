@@ -6,8 +6,8 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/whatap/go-api/agent/agent/trace"
 	"github.com/whatap/golib/lang/step"
+	"github.com/zaelani23/go-api/agent/agent/trace"
 )
 
 func TestStartDBC(t *testing.T) {
