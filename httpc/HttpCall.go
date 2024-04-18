@@ -1,4 +1,4 @@
-//github.com/whatap/go-api/httpc
+// github.com/whatap/go-api/httpc
 package httpc
 
 import (
@@ -11,10 +11,10 @@ import (
 	whatapnet "github.com/whatap/golib/net"
 	"github.com/whatap/golib/util/dateutil"
 
-	// "github.com/whatap/golib/util/urlutil"
-	"github.com/whatap/go-api/config"
-	"github.com/whatap/go-api/trace"
 	"github.com/whatap/golib/util/stringutil"
+	// "github.com/whatap/golib/util/urlutil"
+	"github.com/zaelani/go-api/config"
+	"github.com/zaelani/go-api/trace"
 )
 
 const (

@@ -1,8 +1,8 @@
 package method
 
 import (
-	"github.com/whatap/go-api/trace"
 	"github.com/whatap/golib/lang/pack/udp"
+	"github.com/zaelani/go-api/trace"
 )
 
 type MethodCtx struct {

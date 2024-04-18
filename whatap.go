@@ -4,13 +4,13 @@ import (
 	"context"
 	"fmt"
 
-	_ "github.com/whatap/go-api/config"
-	_ "github.com/whatap/go-api/counter"
-	_ "github.com/whatap/go-api/counter/task"
-	_ "github.com/whatap/go-api/httpc"
-	_ "github.com/whatap/go-api/method"
-	_ "github.com/whatap/go-api/sql"
-	"github.com/whatap/go-api/trace"
+	_ "github.com/zaelani/go-api/config"
+	_ "github.com/zaelani/go-api/counter"
+	_ "github.com/zaelani/go-api/counter/task"
+	_ "github.com/zaelani/go-api/httpc"
+	_ "github.com/zaelani/go-api/method"
+	_ "github.com/zaelani/go-api/sql"
+	"github.com/zaelani/go-api/trace"
 )
 
 func main() {

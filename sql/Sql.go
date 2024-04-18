@@ -1,4 +1,4 @@
-//github.com/whatap/go-api/sql
+// github.com/whatap/go-api/sql
 package sql
 
 import (
@@ -13,12 +13,12 @@ import (
 	//"runtime/debug"
 	"strings"
 
-	"github.com/whatap/go-api/config"
-	"github.com/whatap/go-api/trace"
 	"github.com/whatap/golib/lang/pack/udp"
 	whatapnet "github.com/whatap/golib/net"
 	"github.com/whatap/golib/util/dateutil"
 	"github.com/whatap/golib/util/stringutil"
+	"github.com/zaelani/go-api/config"
+	"github.com/zaelani/go-api/trace"
 )
 
 const (

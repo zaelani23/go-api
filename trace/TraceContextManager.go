@@ -4,10 +4,10 @@ import (
 	//	"log"
 	"sync"
 
-	"github.com/whatap/go-api/config"
 	"github.com/whatap/golib/lang/pack/udp"
 	whatapnet "github.com/whatap/golib/net"
 	"github.com/whatap/golib/util/hmap"
+	"github.com/zaelani/go-api/config"
 )
 
 const (

@@ -1,4 +1,4 @@
-//github.com/whatap/go-api/trace
+// github.com/whatap/go-api/trace
 package trace
 
 import (
@@ -14,8 +14,6 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/whatap/go-api/config"
-	"github.com/whatap/go-api/counter"
 	"github.com/whatap/golib/lang/pack/udp"
 	whatapnet "github.com/whatap/golib/net"
 	"github.com/whatap/golib/util/dateutil"
@@ -23,6 +21,8 @@ import (
 	"github.com/whatap/golib/util/hexa32"
 	"github.com/whatap/golib/util/keygen"
 	"github.com/whatap/golib/util/stringutil"
+	"github.com/zaelani/go-api/config"
+	"github.com/zaelani/go-api/counter"
 )
 
 const (
