@@ -1,4 +1,4 @@
-module github.com/zaelani/go-api
+module github.com/zaelani23/go-api
 
 go 1.13
 

@@ -7,7 +7,7 @@ import (
 	"github.com/whatap/golib/lang/pack/udp"
 	whatapnet "github.com/whatap/golib/net"
 	"github.com/whatap/golib/util/hmap"
-	"github.com/zaelani/go-api/config"
+	"github.com/zaelani23/go-api/config"
 )
 
 const (
@@ -31,14 +31,14 @@ func AddTraceCtx(traceCtx *TraceCtx) {
 	// goidTable.Put(GetGID(), traceCtx.Txid)
 }
 
-// func RemoveTraceCtx(txid int64) *TraceCtx {
-// 	if v := ctxTable.Remove(txid); v != nil {
-// 		if tCtx, ok := v.(*TraceCtx); ok {
-// 			return tCtx
-// 		}
-// 	}
-// 	return nil
-// }
+//	func RemoveTraceCtx(txid int64) *TraceCtx {
+//		if v := ctxTable.Remove(txid); v != nil {
+//			if tCtx, ok := v.(*TraceCtx); ok {
+//				return tCtx
+//			}
+//		}
+//		return nil
+//	}
 func RemoveTraceCtx(traceCtx *TraceCtx) {
 	ctxTable.Remove(traceCtx.Txid)
 	//goidTable.Put(GetGID())

@@ -6,8 +6,8 @@ import (
 	"time"
 
 	"github.com/whatap/golib/util/dateutil"
-	"github.com/zaelani/go-api/config"
-	"github.com/zaelani/go-api/counter/task"
+	"github.com/zaelani23/go-api/config"
+	"github.com/zaelani23/go-api/counter/task"
 )
 
 var counter *Counter

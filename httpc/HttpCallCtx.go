@@ -1,9 +1,9 @@
-//github.com/whatap/go-api/httpc
+// github.com/whatap/go-api/httpc
 package httpc
 
 import (
 	"github.com/whatap/golib/lang/pack/udp"
-	"github.com/zaelani/go-api/trace"
+	"github.com/zaelani23/go-api/trace"
 )
 
 type HttpcCtx struct {

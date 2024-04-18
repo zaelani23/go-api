@@ -13,8 +13,8 @@ import (
 
 	"github.com/whatap/golib/util/stringutil"
 	// "github.com/whatap/golib/util/urlutil"
-	"github.com/zaelani/go-api/config"
-	"github.com/zaelani/go-api/trace"
+	"github.com/zaelani23/go-api/config"
+	"github.com/zaelani23/go-api/trace"
 )
 
 const (

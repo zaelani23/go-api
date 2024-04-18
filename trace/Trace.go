@@ -21,8 +21,8 @@ import (
 	"github.com/whatap/golib/util/hexa32"
 	"github.com/whatap/golib/util/keygen"
 	"github.com/whatap/golib/util/stringutil"
-	"github.com/zaelani/go-api/config"
-	"github.com/zaelani/go-api/counter"
+	"github.com/zaelani23/go-api/config"
+	"github.com/zaelani23/go-api/counter"
 )
 
 const (
